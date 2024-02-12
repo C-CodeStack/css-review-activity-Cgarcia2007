@@ -2,7 +2,7 @@
 
 Click on the link below and take a look:
 
-[EXAMPLE PAGE](./Example Page.jpeg)
+[EXAMPLE PAGE](./assets/mcdonaldspage.jpg)
 
 - Use CSS to make your page look as close to the example as you can.<br>
 <br>
